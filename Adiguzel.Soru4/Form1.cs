@@ -37,7 +37,7 @@ namespace Adiguzel.Soru4
 
             if(txtboxAdSoyad.Text == "")
             {
-                MessageBox.Show("Ad Soyad Girmek Zorunludur!!");
+                MessageBox.Show("Ad Soyad alanı boş bırakılamaz.");
             }
             else
             {
